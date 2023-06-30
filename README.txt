@@ -1,4 +1,4 @@
 1. Link to github repository
-https://github.com/kt712/cw3ind
+https://github.com/ahmadzulkifil/cw3/
 2. Link to github pages
-https://kt712.github.io/cw3ind/
+https://https://github.com/ahmadzulkifil
